@@ -11,7 +11,7 @@ const Home: NextPageWithLayout = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div>
-        <h1>DaftAcademy - WebApp 2022</h1>
+        <h1>DaftAcademy - WebApp 2022 r</h1>
       </div>
     </Fragment>
   );
